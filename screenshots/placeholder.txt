@@ -1,0 +1,6 @@
+Save your screenshots in this folder with the names:
+1. hero.png
+2. dashboard.png
+3. completed.png
+
+They will automatically be linked and render inside PROJECT_REPORT.md!
